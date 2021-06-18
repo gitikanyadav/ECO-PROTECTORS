@@ -35,3 +35,10 @@ For collecting the data of chemicals and industrial pollutants present in water,
 
 IOT will play a major role here for the conversion of signals to data and for transferring the data to the system.
 In this way system will help in making our environment pollution free.
+
+
+SOME RELATED LINKS 
+https://youtu.be/O8WXFTTu9Sc  Reliable detection of water in a Diesel tank - Advanced Smart Level SENSOR - YouTube
+https://www.azosensors.com/article.aspx?ArticleID=225
+[hackathon idean eco protectors.docx](https://github.com/gitikanyadav/ECO-PROTECTORS/files/6678472/hackathon.idean.eco.protectors.docx)
+[DataTransferProtocolsinIoT-AnOverview.pdf](https://github.com/gitikanyadav/ECO-PROTECTORS/files/6678473/DataTransferProtocolsinIoT-AnOverview.pdf)
